@@ -2,7 +2,7 @@
 
 > [ v6参考 ](https://github.com/YanG-1989/m3u) 
 
-
+[节目预告源](https://github.com/YannStor/TVBox/blob/main/README.md)  -- http://epg.51zmt.top:8000/e.xml
 
 [国内直链 v4](https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbuhui/iptv/main/v4.m3u)
 
